@@ -1,0 +1,3 @@
+1. Dự án: Agent chạy offline trên edge/gateway, lập chỉ mục sự kiện từ camera và cho phép tìm bằng tiếng Việt tự nhiên, trả về đoạn clip khớp kèm timeline (khuôn mặt làm mờ mặc định).
+2. Persona: Nhân viên trực ca/điều tra viên tại trung tâm VinSOC của khu đô thị, người nhận yêu cầu tra cứu sự việc (mất đồ, xe lạ, người khả nghi) từ ban quản lý hoặc cư dân.
+3. Core job: Mỗi khi có sự việc, tôi phải tua tay hàng giờ video của nhiều camera để tìm đúng người mặc áo đỏ mang balo lúc chiều; tốn quá nhiều thời gian, dễ bỏ sót, và tôi cần chắc chắn thứ mình báo lại là cảnh có thật chứ không phải đoán.
